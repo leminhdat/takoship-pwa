@@ -10,15 +10,15 @@
   "lang": "en-US",
   "icons": [
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdj96bnguFwR5mK-cRSimfCaKcLzloLpByuGcL0Ukml24WXFDPwo8KIuV5XtvSS8NjzBey6UeTYRI3NUSf2h7OtAUUZFQq8QyLHFsEK72HdK5clHDIYvjQERWmTW20keq6u08KKtrniMW8bqP35wgK5lyO-PDcLoIvwqI6prcGejgYS0A1TilW2Me3Mw/s1024/1000027793.jpg",
+      "src": "https://leminhdat.github.io/takoship-pwa/icon512_maskable.png",
       "sizes": "512x512",
-      "type": "image/jpeg",
+      "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdj96bnguFwR5mK-cRSimfCaKcLzloLpByuGcL0Ukml24WXFDPwo8KIuV5XtvSS8NjzBey6UeTYRI3NUSf2h7OtAUUZFQq8QyLHFsEK72HdK5clHDIYvjQERWmTW20keq6u08KKtrniMW8bqP35wgK5lyO-PDcLoIvwqI6prcGejgYS0A1TilW2Me3Mw/s1024/1000027793.jpg",
+      "src": "https://leminhdat.github.io/takoship-pwa/icon512_rounded.png",
       "sizes": "512x512",
-      "type": "image/jpeg",
+      "type": "image/png",
       "purpose": "any"
     }
   ]
